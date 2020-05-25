@@ -1,2 +1,21 @@
-1.The project starts on May 23, 2020
-2.A model of radar scanning
+1. Ultrasonic radar
+2. A model of radar scanning
+3. The project starts on May 23, 2020
+
+Software:
+1.0 ESPlorer
+1.1 nodemcu-flasher
+2.0 Python
+2.1 use radar 0.3
+3.0 Android Studio
+
+Hardware:
+1. HC-SR04
+2. NodeMcu V3(ESP8266)
+3. DIGIHI TORQUE(MG946R)
+
+Process:
+step1:    use nodemcu-flasher flash firmware for NodeMcu
+step2:    edit lua program in ESPlorer
+
+
