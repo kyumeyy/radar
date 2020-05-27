@@ -7,6 +7,9 @@ Software:
 1.1 nodemcu-flasher
 2.0 Python
 2.1 use radar 0.3
+2.2 lidar
+2.3 opencv-python
+2.4 opencv-contrib-python
 3.0 Android Studio
 
 Hardware:
